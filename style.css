@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #e5e5fd;
+    min-height: 100vh;
+    border: 17.5px solid #1d1e4c;
+    padding: 0 100px;
+}
+
+#missile {
+    font-size: 75px;
+    margin: 50px 0;
+    padding-left: 50px;
+
+}
+
+.nameyear {
+    border-radius: 5px;
+    text-align: right;
+    font-size: 25px;
+    top: -120px;
+    position: relative;
+    padding-right: 100px;
+}
+
+.nameyear h1 {
+    position: relative;
+    top: -10px;
+    font-size: 55px;
+
+}
+
+.nameyear h4 {
+    position: relative;
+    top: -20px;
+    font-size: 30px;
+}
+
+
+.sir {
+    margin-top: 5vh;
+    margin-left: 5vh;
+    height: 500px;
+    border-radius: 40%;
+    display: inline;
+}
+
+.content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 50px;
+    text-align: justify;
+    line-height: 1.8;
+    font-size: 25px;
+}
+
+.lists {
+    padding-left: 50px;
+    line-height: 1.6;
+    padding-bottom: 75px;
+    font-size: 20px;
+}
+
+footer {
+    text-align: right;
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+
+#yt {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 25px;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}
